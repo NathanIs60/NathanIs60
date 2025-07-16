@@ -35,13 +35,15 @@ I'm open to new projects, open-source contributions, and insightful conversation
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; gap: 10px;">
-  <a href="http://www.github.com/NathanIs60">
-    <img src="https://github-readme-stats.vercel.app/api?username=NathanIs60&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NathanIs60's GitHub stats" />
-  </a>
-
-  <a href="https://github.com/NathanIs60" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanIs60&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>
+<center>
+  <div style="display: flex; gap: 10px;">
+   <a href="http://www.github.com/NathanIs60">
+     <img src="https://github-readme-stats.vercel.app/api?username=NathanIs60&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NathanIs60's GitHub stats" />
+   </a>
+ 
+   <a href="https://github.com/NathanIs60" >
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanIs60&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+   </a>
+ </div>
+</center>
 
