@@ -6,27 +6,12 @@ Code, break, debug, repeat. | React & Node.js Fanatic
 
 🌐 About Me
 
-I'm a developer who values clean, sustainable, and performance-oriented code. I mainly focus on backend development, designing scalable API architectures and working with efficient data structures. For me, code isn't just something that works – it should be clear, purposeful, and maintainable.
+ I mainly focus on backend development, designing scalable API architectures and working with efficient data structures.
 
-🏆 Achievements
-
-Designed and deployed the complete backend architecture of a multi-user SaaS platform.
-
-Several open-source projects I shared on GitHub have been forked and starred by hundreds of developers.
-
-As a freelancer, I successfully delivered key components such as payment systems, data optimization pipelines, and background task management.
-
-My technical blog posts and code snippets have served as resources for many fellow developers.
-
-Provided internal mentorship on topics like Clean Architecture, CI/CD, and Dockerization.
-
-⚙️ Tech Stack
-
-Node.js | TypeScript | Python | PostgreSQL | Redis | Docker | Express.js | GitHub Actions | Jest
 
 🎯 Focus
 
-Delivering clean and scalable solutions to real-world problems. With every new project, my goal is to improve both the system and myself.
+Besides causing a little mischief now and then, there aren’t many things I truly enjoy. My main goal in life is to live it having fun.
 
 🤝 Collaboration
 
