@@ -19,7 +19,7 @@ I'm open to new projects, open-source contributions, and insightful conversation
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [taha62batu@gmail.com](mailto:taha62batu@gmail.com)
-* 🧠  I'm learning - Microservices and event-driven systems with Node.js & Kafka - CI/CD pipelines using GitHub Actions & Docker - AI integrations and automation workflows using Python
+* 🧠  I'm learning - Microservices and event-driven systems with Node.js & Next.js - CI/CD pipelines using GitHub Actions & Docker - AI integrations and automation workflows using Python
 
 ### Skills
 
